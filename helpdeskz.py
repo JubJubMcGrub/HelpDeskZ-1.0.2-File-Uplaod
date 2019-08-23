@@ -11,7 +11,7 @@ Fill out a ticket form and attach a php file, solve the captcha and upload,
 
 Set up a netcat session to catch the reverse shell
 
-Run this script and receave a reverse shell back!!!
+Run this script and receive a reverse shell back!!!
 
 '''
 import hashlib
